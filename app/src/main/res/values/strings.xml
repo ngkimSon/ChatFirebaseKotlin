@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chat Firebase Kotlin</string>
+    <string name="item_people">People</string>
+    <string name="item_account">Account</string>
+    <string name="signin_button">Sign-In</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="my_name">My name</string>
+    <string name="my_bio">My bio</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="btn_save">Save</string>
+</resources>

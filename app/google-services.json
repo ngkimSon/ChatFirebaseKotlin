@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800810219662",
+    "firebase_url": "https://chatkotlin-a4ce0.firebaseio.com",
+    "project_id": "chatkotlin-a4ce0",
+    "storage_bucket": "chatkotlin-a4ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800810219662:android:7a2518416b432a0ccbf1df",
+        "android_client_info": {
+          "package_name": "com.sean.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800810219662-gj24ocnjkonl9f4vkc5glnr5heto41vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN9swr4EXBBC2oEUFFhypx70SAeZP2LZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800810219662-gj24ocnjkonl9f4vkc5glnr5heto41vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
